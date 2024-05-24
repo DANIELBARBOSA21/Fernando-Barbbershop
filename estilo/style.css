@@ -82,13 +82,14 @@ a{
     color: aliceblue;
 }
 footer{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.719);
     color: white;
     font-family: var(--fonte02);
     text-align: center;
     padding: 20px;
     margin-top: 121px;
     text-decoration: none;
+    box-shadow: 0px 7px 9px rgb(0, 0, 0.192);
 }
 a:hover{
     border-radius: 10px;
